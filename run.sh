@@ -1,2 +1,3 @@
 #! /bin/sh
-./t000srapi config.yml
+export SRACCT=xxxxxxxx
+./t003srapi config.yml

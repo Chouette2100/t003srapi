@@ -1,3 +1,4 @@
+sr_acct: ${SRACCT}
 category: Official
 rvlfilename: rvl.txt
 exclfilename: excl.txt
